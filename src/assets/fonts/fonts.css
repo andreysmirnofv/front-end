@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "PaluiSPDemo-Bold";
+  src: url("./PaluiSPDemo-Bold.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPNeueMachina-Regular";
+  src: url("./PPNeueMachina-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
